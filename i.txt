@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+ <!-- DGL 103 DLU1 - Bradley Best - Grand Project -->
+ <title>CR PAWS Website</title>
+ <meta charset="utf-8">
+ <link href="style1.css" rel="Stylesheet">
+ <link rel="icon" href="images/favicon.ico" type="image/x-icon">
+</head>
+
+<body>
+ <header>
+  <a href="home.html"><img src="images/crpawslogo.png" alt="Campbell River P.A.W.S." width="100"></a>
+  <h1><b>Campbell River P.A.W.S. (Partners for Animal Welfare Society)</b></h1>
